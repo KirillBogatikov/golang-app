@@ -1,0 +1,12 @@
+# github.com/KirillBogatikov/a v0.0.1-a
+## explicit; go 1.19
+github.com/KirillBogatikov/a
+# github.com/KirillBogatikov/b v0.0.1-b
+## explicit; go 1.19
+github.com/KirillBogatikov/b
+# github.com/KirillBogatikov/m v0.0.3
+## explicit; go 1.19
+github.com/KirillBogatikov/m
+github.com/KirillBogatikov/m/a
+github.com/KirillBogatikov/m/b
+github.com/KirillBogatikov/m/c
